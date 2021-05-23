@@ -1,6 +1,6 @@
 # Interpolação de Imagens
 
-## Esse projeto foi desenvolvido por Hernandes Macedo & Heitor Galdino (@h80r)
+## Esse projeto foi desenvolvido por [Hernandes Macedo](https://github.com/hernandesmacedo) & [Heitor Galdino](https://github.com/h80r)
   &nbsp;
 ## Objetivo
 * Implementação da interpolação por vizinho mais próximo e da interpolação bilinear para redução e ampliação de imagens.
